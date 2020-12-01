@@ -1,0 +1,54 @@
+C:\Users\Osama Al-Halabi\source\repos\ImageEditor\ImageEditor\bin\Release\ImageEditor.exe.config
+C:\Users\Osama Al-Halabi\source\repos\ImageEditor\ImageEditor\bin\Release\ImageEditor.exe
+C:\Users\Osama Al-Halabi\source\repos\ImageEditor\ImageEditor\bin\Release\ImageEditor.pdb
+C:\Users\Osama Al-Halabi\source\repos\ImageEditor\ImageEditor\obj\Release\ImageEditor.csprojAssemblyReference.cache
+C:\Users\Osama Al-Halabi\source\repos\ImageEditor\ImageEditor\obj\Release\ImageEditor.Form1.resources
+C:\Users\Osama Al-Halabi\source\repos\ImageEditor\ImageEditor\obj\Release\ImageEditor.Properties.Resources.resources
+C:\Users\Osama Al-Halabi\source\repos\ImageEditor\ImageEditor\obj\Release\ImageEditor.csproj.GenerateResource.cache
+C:\Users\Osama Al-Halabi\source\repos\ImageEditor\ImageEditor\obj\Release\ImageEditor.exe
+C:\Users\Osama Al-Halabi\source\repos\ImageEditor\ImageEditor\obj\Release\ImageEditor.pdb
+C:\Users\Osama Al-Halabi\source\repos\ImageEditor\ImageEditor\bin\Release\AForge.dll
+C:\Users\Osama Al-Halabi\source\repos\ImageEditor\ImageEditor\bin\Release\AForge.Imaging.dll
+C:\Users\Osama Al-Halabi\source\repos\ImageEditor\ImageEditor\bin\Release\AForge.Math.dll
+C:\Users\Osama Al-Halabi\source\repos\ImageEditor\ImageEditor\bin\Release\AForge.xml
+C:\Users\Osama Al-Halabi\source\repos\ImageEditor\ImageEditor\bin\Release\AForge.Imaging.xml
+C:\Users\Osama Al-Halabi\source\repos\ImageEditor\ImageEditor\bin\Release\AForge.Math.xml
+C:\Users\Osama Al-Halabi\source\repos\ImageEditor\ImageEditor\obj\Release\ImageEditor.csproj.CopyComplete
+C:\Users\Osama Al-Halabi\source\repos\ImageEditor\ImageEditor\bin\Release\PCLCrypto.dll
+C:\Users\Osama Al-Halabi\source\repos\ImageEditor\ImageEditor\bin\Release\PInvoke.BCrypt.dll
+C:\Users\Osama Al-Halabi\source\repos\ImageEditor\ImageEditor\bin\Release\PInvoke.Kernel32.dll
+C:\Users\Osama Al-Halabi\source\repos\ImageEditor\ImageEditor\bin\Release\PInvoke.NCrypt.dll
+C:\Users\Osama Al-Halabi\source\repos\ImageEditor\ImageEditor\bin\Release\PInvoke.Windows.Core.dll
+C:\Users\Osama Al-Halabi\source\repos\ImageEditor\ImageEditor\bin\Release\Validation.dll
+C:\Users\Osama Al-Halabi\source\repos\ImageEditor\ImageEditor\bin\Release\PCLCrypto.xml
+C:\Users\Osama Al-Halabi\source\repos\ImageEditor\ImageEditor\bin\Release\PInvoke.BCrypt.xml
+C:\Users\Osama Al-Halabi\source\repos\ImageEditor\ImageEditor\bin\Release\PInvoke.Kernel32.xml
+C:\Users\Osama Al-Halabi\source\repos\ImageEditor\ImageEditor\bin\Release\PInvoke.NCrypt.xml
+C:\Users\Osama Al-Halabi\source\repos\ImageEditor\ImageEditor\bin\Release\PInvoke.Windows.Core.xml
+C:\Users\Osama Al-Halabi\source\repos\ImageEditor\ImageEditor\bin\Release\Validation.xml
+D:\Files Before Formatting\source\repos\ImageEditor - Copy\ImageEditor\bin\Release\ImageEditor.exe.config
+D:\Files Before Formatting\source\repos\ImageEditor - Copy\ImageEditor\bin\Release\ImageEditor.exe
+D:\Files Before Formatting\source\repos\ImageEditor - Copy\ImageEditor\bin\Release\ImageEditor.pdb
+D:\Files Before Formatting\source\repos\ImageEditor - Copy\ImageEditor\bin\Release\PCLCrypto.dll
+D:\Files Before Formatting\source\repos\ImageEditor - Copy\ImageEditor\bin\Release\PInvoke.BCrypt.dll
+D:\Files Before Formatting\source\repos\ImageEditor - Copy\ImageEditor\bin\Release\PInvoke.Kernel32.dll
+D:\Files Before Formatting\source\repos\ImageEditor - Copy\ImageEditor\bin\Release\PInvoke.NCrypt.dll
+D:\Files Before Formatting\source\repos\ImageEditor - Copy\ImageEditor\bin\Release\PInvoke.Windows.Core.dll
+D:\Files Before Formatting\source\repos\ImageEditor - Copy\ImageEditor\bin\Release\Validation.dll
+D:\Files Before Formatting\source\repos\ImageEditor - Copy\ImageEditor\bin\Release\AForge.Math.dll
+D:\Files Before Formatting\source\repos\ImageEditor - Copy\ImageEditor\bin\Release\AForge.xml
+D:\Files Before Formatting\source\repos\ImageEditor - Copy\ImageEditor\bin\Release\AForge.Imaging.xml
+D:\Files Before Formatting\source\repos\ImageEditor - Copy\ImageEditor\bin\Release\PCLCrypto.xml
+D:\Files Before Formatting\source\repos\ImageEditor - Copy\ImageEditor\bin\Release\PInvoke.BCrypt.xml
+D:\Files Before Formatting\source\repos\ImageEditor - Copy\ImageEditor\bin\Release\PInvoke.Kernel32.xml
+D:\Files Before Formatting\source\repos\ImageEditor - Copy\ImageEditor\bin\Release\PInvoke.NCrypt.xml
+D:\Files Before Formatting\source\repos\ImageEditor - Copy\ImageEditor\bin\Release\PInvoke.Windows.Core.xml
+D:\Files Before Formatting\source\repos\ImageEditor - Copy\ImageEditor\bin\Release\Validation.xml
+D:\Files Before Formatting\source\repos\ImageEditor - Copy\ImageEditor\bin\Release\AForge.Math.xml
+D:\Files Before Formatting\source\repos\ImageEditor - Copy\ImageEditor\obj\Release\ImageEditor.csprojAssemblyReference.cache
+D:\Files Before Formatting\source\repos\ImageEditor - Copy\ImageEditor\obj\Release\ImageEditor.Form1.resources
+D:\Files Before Formatting\source\repos\ImageEditor - Copy\ImageEditor\obj\Release\ImageEditor.Properties.Resources.resources
+D:\Files Before Formatting\source\repos\ImageEditor - Copy\ImageEditor\obj\Release\ImageEditor.csproj.GenerateResource.cache
+D:\Files Before Formatting\source\repos\ImageEditor - Copy\ImageEditor\obj\Release\ImageEditor.csproj.CopyComplete
+D:\Files Before Formatting\source\repos\ImageEditor - Copy\ImageEditor\obj\Release\ImageEditor.exe
+D:\Files Before Formatting\source\repos\ImageEditor - Copy\ImageEditor\obj\Release\ImageEditor.pdb

@@ -1,0 +1,10 @@
+C:\Users\engos\OneDrive\Desktop\image-editor\ImageEditor\obj\Debug\ImageEditor.csprojAssemblyReference.cache
+C:\Users\engos\OneDrive\Desktop\image-editor\ImageEditor\obj\Debug\ImageEditor.Form1.resources
+C:\Users\engos\OneDrive\Desktop\image-editor\ImageEditor\obj\Debug\ImageEditor.Properties.Resources.resources
+C:\Users\engos\OneDrive\Desktop\image-editor\ImageEditor\obj\Debug\ImageEditor.csproj.GenerateResource.cache
+D:\Files Before Formatting\source\repos\ImageEditor - Copy\ImageEditor\obj\Debug\ImageEditor.csprojAssemblyReference.cache
+D:\Files Before Formatting\source\repos\ImageEditor - Copy\ImageEditor\obj\Debug\ImageEditor.Form1.resources
+D:\Files Before Formatting\source\repos\ImageEditor - Copy\ImageEditor\obj\Debug\ImageEditor.Properties.Resources.resources
+D:\Files Before Formatting\source\repos\ImageEditor - Copy\ImageEditor\obj\Debug\ImageEditor.csproj.GenerateResource.cache
+D:\Files Before Formatting\source\repos\ImageEditor - Copy\ImageEditor\obj\Debug\ImageEditor.exe
+D:\Files Before Formatting\source\repos\ImageEditor - Copy\ImageEditor\obj\Debug\ImageEditor.pdb
